@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
 
 <details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-A third-year **Cybersecurity** student focusing on developing skills in **web application penetration testing** and **vulnerability analysis**. I am an active participant in practical training platforms like TryHackMe and Hack The Box. I hold several technical certifications and am continuously engaged in self-learning and development, with a strong emphasis on practical application and analyzing attack and defense environments.
+A third-year **Cybersecurity** student, actively developing skills in **web application penetration testing** and **vulnerability analysis**. I am an active participant in practical training platforms such as **TryHackMe** and **Hack The Box**. I hold several technical certifications and continuously pursue self-learning and development, with a strong focus on practical application and analyzing attack and defense environments.
 
 ---
 
@@ -33,20 +33,20 @@ A third-year **Cybersecurity** student focusing on developing skills in **web ap
 
 ---
 
-## 🏆 Activities & Participations
+## 🚀 Activities & Participations
 
 * Active member of **Hack The Box** and **TryHackMe** platforms
 * Executing practical challenges in real-world penetration testing environments
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
 * **eJPT** - Junior Penetration Tester
 * **eWPT** - Web Penetration Tester
 * **OSWE** - Offensive Security Web Expert
 * **CompTIA Linux+**
-* Currently pursuing **Web Application Vulnerability Penetration Testing** certifications
+* Currently on the **Web Application Vulnerability Penetration Testing** track
 
 ---
 
@@ -86,17 +86,37 @@ A third-year **Cybersecurity** student focusing on developing skills in **web ap
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />    Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />     Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-```dart
-// tools_I_use organized
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
-class About extends Me {
-  const myTools = {
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+</div>
