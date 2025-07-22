@@ -35,7 +35,6 @@ A third-year **Cybersecurity** student, actively developing skills in **web appl
 
 * **eJPT** - Junior Penetration Tester
 * **eWPT** - Web Penetration Tester
-* **OSWE** - Offensive Security Web Expert
 * **CompTIA Linux+**
 * Currently on the **Web Application Vulnerability Penetration Testing** track
 
@@ -55,12 +54,3 @@ A third-year **Cybersecurity** student, actively developing skills in **web appl
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ```dart
-// tools_I_use organized
-
-class About extends Me {
-  const myTools = {
-    "ProgramingLanguages" : { "Python", "Java", "C++" },
-    "Platforms" : { "GNU/Linux" },
-    // Removed other categories as per your request
-  };
-}
