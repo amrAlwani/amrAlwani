@@ -7,8 +7,8 @@
 </div>
 
 ---
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on my profile.
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   ##Profile.
 
 A third-year **Cybersecurity** student, actively developing skills in **web application penetration testing** and **vulnerability analysis**. I am an active participant in practical training platforms such as **TryHackMe** and **Hack The Box**. I hold several technical certifications and continuously pursue self-learning and development, with a strong focus on practical application and analyzing attack and defense environments.
 
