@@ -7,13 +7,13 @@
 
 ---
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on my profile.
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35" /> &nbsp; I’m currently working on my profile.
 
 A third-year **Cybersecurity** student, actively developing skills in **web application penetration testing** and **vulnerability analysis**. I am an active participant in practical training platforms such as **TryHackMe** and **Hack The Box**. I hold several technical certifications and continuously pursue self-learning and development, with a strong focus on practical application and analyzing attack and defense environments.
 
 ---
 
-## 🛠️ Skills
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/gear.gif?raw=true" width="30" /> <span style="font-size: 1.2em">Skills</span>
 
 - ![C++](https://github.com/SP-XD/SP-XD/blob/main/images/cplusplus.gif?raw=true) **C++** Language  
 - ![Java](https://github.com/SP-XD/SP-XD/blob/main/images/java.gif?raw=true) **Java** Language  
@@ -23,14 +23,14 @@ A third-year **Cybersecurity** student, actively developing skills in **web appl
 
 ---
 
-## 🚀 Activities & Participations
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/rocket.gif?raw=true" width="30" /> <span style="font-size: 1.2em">Activities & Participations</span>
 
 - Active member of **Hack The Box** and **TryHackMe** platforms  
 - Executing practical challenges in real-world penetration testing environments  
 
 ---
 
-## 🏅 Certifications
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/certified.gif?raw=true" width="30" /> <span style="font-size: 1.2em">Certifications</span>
 
 - ![eJPT](https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-blue) **eJPT** - Junior Penetration Tester  
 - ![eWPT](https://img.shields.io/badge/eWPT-Web%20Penetration%20Tester-blueviolet) **eWPT** - Web Penetration Tester  
@@ -39,7 +39,7 @@ A third-year **Cybersecurity** student, actively developing skills in **web appl
 
 ---
 
-## 🎓 Education
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/school.gif?raw=true" width="30" /> <span style="font-size: 1.2em">Education</span>
 
 - Bachelor's Degree in **Cybersecurity** - Third Year
 
@@ -50,5 +50,4 @@ A third-year **Cybersecurity** student, actively developing skills in **web appl
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)  
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
