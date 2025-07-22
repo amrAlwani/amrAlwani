@@ -1,37 +1,56 @@
-# Saksham Taneja 👨‍💻
+# Amr AL_Alwani 🛡️
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
-[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@AmroAlAlwani-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/AmroAlAlwani)](https://t.me/AmroAlAlwani)
+
 ---
 
-## Hi there 👋,
+## 👋 About Me
 
-### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
--------
-  
-## 🧐 About
+I’m **Amr AL_Alwani**, a third-year Cybersecurity student, focusing on **web application penetration testing** and **vulnerability analysis**.  
+I’m actively improving my skills through hands-on platforms like **TryHackMe** and **Hack The Box**, and I believe in practical, real-world training over theoretical knowledge.  
+I’m continuously pursuing self-development and specialization in offensive and defensive security environments.
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+---
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## 🧠 Skills
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- Programming: `Python`, `C++`, `Java`
+- Web Vulnerability Analysis & Penetration Testing
+- Linux Systems & Security Tools
+- Hands-on cybersecurity labs and real-world simulations
 
+---
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+## 🧪 Activities
+
+- Active member on **TryHackMe** and **Hack The Box**
+- Solving real-world penetration testing challenges
+- Focusing on web attack vectors and exploit chains
+
+---
+
+## 📜 Certifications
+
+- `eJPT` – Junior Penetration Tester  
+- `eWPT` – Web Penetration Tester  
+- `CompTIA Linux+`  
+- Currently pursuing **Web Application Exploitation** track
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Cybersecurity**  
+📍 Third-year student
+
+---
+
+## 📫 Contact
+
+- Telegram: [@AmroAlAlwani](https://t.me/AmroAlAlwani)
+
+---
 
 <!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
+**AmrAL_Alwani/AmrAL_Alwani** — Professional README for a cybersecurity student and practitioner.
 -->
