@@ -1,21 +1,60 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=AmrAL_Alwani&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmrAL_Alwani&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/AmrAL_Alwani-grey?style=flat&logo=telegram)](https://t.me/AmroAlAlwani) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
-<hr></hr>
+---
+
+## About Me
+
+A third-year **Cybersecurity** student focusing on developing skills in **web application penetration testing** and **vulnerability analysis**. I am an active participant in practical training platforms like TryHackMe and Hack The Box. I hold several technical certifications and am continuously engaged in self-learning and development, with a strong emphasis on practical application and analyzing attack and defense environments.
+
+---
+
+## Skills
+
+* **C++** Language
+* **Java** Language
+* **Python** Language
+* Vulnerability Analysis and **Web Application Penetration Testing**
+* Working with **Linux Systems** and Security Tools
+
+---
+
+## Activities & Participations
+
+* Active member of **Hack The Box** and **TryHackMe** platforms
+* Executing practical challenges in real-world penetration testing environments
+
+---
+
+## Certifications
+
+* **eJPT** - Junior Penetration Tester
+* **eWPT** - Web Penetration Tester
+* **OSWE** - Offensive Security Web Expert
+* **CompTIA Linux+**
+* Currently pursuing **Web Application Vulnerability Penetration Testing** certifications
+
+---
+
+## Education
+
+* Bachelor's Degree in **Cybersecurity** - Third Year
+
+---
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -51,8 +90,8 @@
 ```dart
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
+class About extends Me {
+  const myTools = {
     "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
