@@ -17,13 +17,13 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 A third-year **Cybersecurity** student focusing on developing skills in **web application penetration testing** and **vulnerability analysis**. I am an active participant in practical training platforms like TryHackMe and Hack The Box. I hold several technical certifications and am continuously engaged in self-learning and development, with a strong emphasis on practical application and analyzing attack and defense environments.
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 * **C++** Language
 * **Java** Language
@@ -33,14 +33,14 @@ A third-year **Cybersecurity** student focusing on developing skills in **web ap
 
 ---
 
-## Activities & Participations
+## 🏆 Activities & Participations
 
 * Active member of **Hack The Box** and **TryHackMe** platforms
 * Executing practical challenges in real-world penetration testing environments
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 * **eJPT** - Junior Penetration Tester
 * **eWPT** - Web Penetration Tester
@@ -50,7 +50,7 @@ A third-year **Cybersecurity** student focusing on developing skills in **web ap
 
 ---
 
-## Education
+## 🎓 Education
 
 * Bachelor's Degree in **Cybersecurity** - Third Year
 
